@@ -1,0 +1,7 @@
+.adi{
+    margin: auto;
+        height: 250px;
+        width: 250px;
+        overflow: clip;
+        border-radius: 50%;
+}

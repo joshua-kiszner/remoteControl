@@ -1,0 +1,14 @@
+.altitude{
+    margin: auto;
+    position: relative;
+    height: 300px;
+    width: 85px;
+}
+.altimeter{
+    font-size: x-large;
+    border: solid 1px white;
+    background-color: aqua;
+    margin: auto;
+    height: 300px;
+    width: 75px;
+}

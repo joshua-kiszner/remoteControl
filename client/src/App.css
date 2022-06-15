@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.main{
+
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:rgb(31, 32, 47);
+  height: 500px;
+  width: 800px;
+}

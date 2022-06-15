@@ -1,0 +1,8 @@
+.his{
+    margin: auto;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(15, 93, 99);
+    border-radius: 50%;
+    transition: transform 500ms ease-in-out 25ms;
+}
