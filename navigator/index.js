@@ -21,7 +21,6 @@ socket.on("connect", () => {
                     if (value >= 0 && value <= 360) {
                         return true;
                     }
-                    WriteStream.clearLine()
                     return "Please enter a number between 0 and 360";
                 }
             },
